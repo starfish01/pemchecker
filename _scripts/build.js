@@ -16,8 +16,8 @@ if (platform == 'darwin') {
 }
 
 const config = {
-  appId: `com.mubaidr.${name}`,
-  copyright: 'Copyright ©2019 mubaidr@gmail.com',
+  appId: `${name}`,
+  copyright: '',
   // asar: false,
   // compression: 'store',
   productName,

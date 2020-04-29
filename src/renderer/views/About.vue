@@ -7,11 +7,8 @@
           <div class="content">
             <div>
               <h2 class="subtitle is-6">Developed By:</h2>
-              <strong>Muhammad Ubaid Raza</strong>
+              <strong>Patrick</strong>
               <br />
-              <a href="//github.com/mubaidr" target="_blank"
-                >mubaidr@gmail.com</a
-              >
             </div>
           </div>
         </div>
