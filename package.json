@@ -3,7 +3,7 @@
   "dependencies": {
     "bulma-pro": "^0.1.8",
     "material-design-icons": "^3.0.1",
-    "node-forge": "^0.9.1",
+    "node-forge": "^1.3.0",
     "pem-file": "^1.0.1",
     "vue": "^2.6.11",
     "vue-electron": "^1.0.6",
